@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kotlin v1</string>
+    <string name="hello_world">0</string>
+    <string name="text_button3">Random</string>
+    <string name="text_button2">Toast</string>
+    <string name="text_button">Count</string>
+    <string name="text_random_number">Here is a random number between 0 and %1d</string>
+    <string name="random_number">0</string>
+</resources>
